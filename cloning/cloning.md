@@ -6,3 +6,10 @@ test test
 
 
 Verandering
+
+**vet**
+
+<b>vet</b>
+
+X<sup>2</sup>
+
